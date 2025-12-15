@@ -1,0 +1,8 @@
+D:\IET\.NET\Solution1\01Day_PrimeNo\bin\Debug\01Day_PrimeNo.exe.config
+D:\IET\.NET\Solution1\01Day_PrimeNo\bin\Debug\01Day_PrimeNo.exe
+D:\IET\.NET\Solution1\01Day_PrimeNo\bin\Debug\01Day_PrimeNo.pdb
+D:\IET\.NET\Solution1\01Day_PrimeNo\obj\Debug\01Day_PrimeNo.csproj.AssemblyReference.cache
+D:\IET\.NET\Solution1\01Day_PrimeNo\obj\Debug\01Day_PrimeNo.csproj.SuggestedBindingRedirects.cache
+D:\IET\.NET\Solution1\01Day_PrimeNo\obj\Debug\01Day_PrimeNo.csproj.CoreCompileInputs.cache
+D:\IET\.NET\Solution1\01Day_PrimeNo\obj\Debug\01Day_PrimeNo.exe
+D:\IET\.NET\Solution1\01Day_PrimeNo\obj\Debug\01Day_PrimeNo.pdb

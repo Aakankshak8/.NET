@@ -1,0 +1,15 @@
+D:\IET\.NET\Solution1\01Day_Hello\bin\Debug\net6.0\01Day_Hello.exe
+D:\IET\.NET\Solution1\01Day_Hello\bin\Debug\net6.0\01Day_Hello.deps.json
+D:\IET\.NET\Solution1\01Day_Hello\bin\Debug\net6.0\01Day_Hello.runtimeconfig.json
+D:\IET\.NET\Solution1\01Day_Hello\bin\Debug\net6.0\01Day_Hello.dll
+D:\IET\.NET\Solution1\01Day_Hello\bin\Debug\net6.0\01Day_Hello.pdb
+D:\IET\.NET\Solution1\01Day_Hello\obj\Debug\net6.0\01Day_Hello.csproj.AssemblyReference.cache
+D:\IET\.NET\Solution1\01Day_Hello\obj\Debug\net6.0\01Day_Hello.GeneratedMSBuildEditorConfig.editorconfig
+D:\IET\.NET\Solution1\01Day_Hello\obj\Debug\net6.0\01Day_Hello.AssemblyInfoInputs.cache
+D:\IET\.NET\Solution1\01Day_Hello\obj\Debug\net6.0\01Day_Hello.AssemblyInfo.cs
+D:\IET\.NET\Solution1\01Day_Hello\obj\Debug\net6.0\01Day_Hello.csproj.CoreCompileInputs.cache
+D:\IET\.NET\Solution1\01Day_Hello\obj\Debug\net6.0\01Day_Hello.dll
+D:\IET\.NET\Solution1\01Day_Hello\obj\Debug\net6.0\refint\01Day_Hello.dll
+D:\IET\.NET\Solution1\01Day_Hello\obj\Debug\net6.0\01Day_Hello.pdb
+D:\IET\.NET\Solution1\01Day_Hello\obj\Debug\net6.0\01Day_Hello.genruntimeconfig.cache
+D:\IET\.NET\Solution1\01Day_Hello\obj\Debug\net6.0\ref\01Day_Hello.dll

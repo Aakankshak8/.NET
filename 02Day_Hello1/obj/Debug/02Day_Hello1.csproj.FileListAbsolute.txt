@@ -1,0 +1,8 @@
+D:\IET\.NET\Solution1\02Day_Hello1\bin\Debug\02Day_Hello1.exe.config
+D:\IET\.NET\Solution1\02Day_Hello1\bin\Debug\02Day_Hello1.exe
+D:\IET\.NET\Solution1\02Day_Hello1\bin\Debug\02Day_Hello1.pdb
+D:\IET\.NET\Solution1\02Day_Hello1\obj\Debug\02Day_Hello1.csproj.AssemblyReference.cache
+D:\IET\.NET\Solution1\02Day_Hello1\obj\Debug\02Day_Hello1.csproj.SuggestedBindingRedirects.cache
+D:\IET\.NET\Solution1\02Day_Hello1\obj\Debug\02Day_Hello1.csproj.CoreCompileInputs.cache
+D:\IET\.NET\Solution1\02Day_Hello1\obj\Debug\02Day_Hello1.exe
+D:\IET\.NET\Solution1\02Day_Hello1\obj\Debug\02Day_Hello1.pdb
