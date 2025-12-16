@@ -1,0 +1,15 @@
+D:\IET\.NET\Solution1\02Day_DataTypes\bin\Debug\net7.0\02Day_DataTypes.exe
+D:\IET\.NET\Solution1\02Day_DataTypes\bin\Debug\net7.0\02Day_DataTypes.deps.json
+D:\IET\.NET\Solution1\02Day_DataTypes\bin\Debug\net7.0\02Day_DataTypes.runtimeconfig.json
+D:\IET\.NET\Solution1\02Day_DataTypes\bin\Debug\net7.0\02Day_DataTypes.dll
+D:\IET\.NET\Solution1\02Day_DataTypes\bin\Debug\net7.0\02Day_DataTypes.pdb
+D:\IET\.NET\Solution1\02Day_DataTypes\obj\Debug\net7.0\02Day_DataTypes.csproj.AssemblyReference.cache
+D:\IET\.NET\Solution1\02Day_DataTypes\obj\Debug\net7.0\02Day_DataTypes.GeneratedMSBuildEditorConfig.editorconfig
+D:\IET\.NET\Solution1\02Day_DataTypes\obj\Debug\net7.0\02Day_DataTypes.AssemblyInfoInputs.cache
+D:\IET\.NET\Solution1\02Day_DataTypes\obj\Debug\net7.0\02Day_DataTypes.AssemblyInfo.cs
+D:\IET\.NET\Solution1\02Day_DataTypes\obj\Debug\net7.0\02Day_DataTypes.csproj.CoreCompileInputs.cache
+D:\IET\.NET\Solution1\02Day_DataTypes\obj\Debug\net7.0\02Day_DataTypes.dll
+D:\IET\.NET\Solution1\02Day_DataTypes\obj\Debug\net7.0\refint\02Day_DataTypes.dll
+D:\IET\.NET\Solution1\02Day_DataTypes\obj\Debug\net7.0\02Day_DataTypes.pdb
+D:\IET\.NET\Solution1\02Day_DataTypes\obj\Debug\net7.0\02Day_DataTypes.genruntimeconfig.cache
+D:\IET\.NET\Solution1\02Day_DataTypes\obj\Debug\net7.0\ref\02Day_DataTypes.dll

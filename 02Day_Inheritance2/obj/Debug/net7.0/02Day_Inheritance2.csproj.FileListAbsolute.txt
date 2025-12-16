@@ -1,0 +1,15 @@
+D:\IET\.NET\Solution1\02Day_Inheritance2\bin\Debug\net7.0\02Day_Inheritance2.exe
+D:\IET\.NET\Solution1\02Day_Inheritance2\bin\Debug\net7.0\02Day_Inheritance2.deps.json
+D:\IET\.NET\Solution1\02Day_Inheritance2\bin\Debug\net7.0\02Day_Inheritance2.runtimeconfig.json
+D:\IET\.NET\Solution1\02Day_Inheritance2\bin\Debug\net7.0\02Day_Inheritance2.dll
+D:\IET\.NET\Solution1\02Day_Inheritance2\bin\Debug\net7.0\02Day_Inheritance2.pdb
+D:\IET\.NET\Solution1\02Day_Inheritance2\obj\Debug\net7.0\02Day_Inheritance2.csproj.AssemblyReference.cache
+D:\IET\.NET\Solution1\02Day_Inheritance2\obj\Debug\net7.0\02Day_Inheritance2.GeneratedMSBuildEditorConfig.editorconfig
+D:\IET\.NET\Solution1\02Day_Inheritance2\obj\Debug\net7.0\02Day_Inheritance2.AssemblyInfoInputs.cache
+D:\IET\.NET\Solution1\02Day_Inheritance2\obj\Debug\net7.0\02Day_Inheritance2.AssemblyInfo.cs
+D:\IET\.NET\Solution1\02Day_Inheritance2\obj\Debug\net7.0\02Day_Inheritance2.csproj.CoreCompileInputs.cache
+D:\IET\.NET\Solution1\02Day_Inheritance2\obj\Debug\net7.0\02Day_Inheritance2.dll
+D:\IET\.NET\Solution1\02Day_Inheritance2\obj\Debug\net7.0\refint\02Day_Inheritance2.dll
+D:\IET\.NET\Solution1\02Day_Inheritance2\obj\Debug\net7.0\02Day_Inheritance2.pdb
+D:\IET\.NET\Solution1\02Day_Inheritance2\obj\Debug\net7.0\02Day_Inheritance2.genruntimeconfig.cache
+D:\IET\.NET\Solution1\02Day_Inheritance2\obj\Debug\net7.0\ref\02Day_Inheritance2.dll

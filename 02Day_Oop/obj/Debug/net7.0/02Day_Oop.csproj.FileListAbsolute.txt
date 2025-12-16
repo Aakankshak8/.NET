@@ -1,0 +1,15 @@
+D:\IET\.NET\Solution1\02Day_Oop\bin\Debug\net7.0\02Day_Oop.exe
+D:\IET\.NET\Solution1\02Day_Oop\bin\Debug\net7.0\02Day_Oop.deps.json
+D:\IET\.NET\Solution1\02Day_Oop\bin\Debug\net7.0\02Day_Oop.runtimeconfig.json
+D:\IET\.NET\Solution1\02Day_Oop\bin\Debug\net7.0\02Day_Oop.dll
+D:\IET\.NET\Solution1\02Day_Oop\bin\Debug\net7.0\02Day_Oop.pdb
+D:\IET\.NET\Solution1\02Day_Oop\obj\Debug\net7.0\02Day_Oop.csproj.AssemblyReference.cache
+D:\IET\.NET\Solution1\02Day_Oop\obj\Debug\net7.0\02Day_Oop.GeneratedMSBuildEditorConfig.editorconfig
+D:\IET\.NET\Solution1\02Day_Oop\obj\Debug\net7.0\02Day_Oop.AssemblyInfoInputs.cache
+D:\IET\.NET\Solution1\02Day_Oop\obj\Debug\net7.0\02Day_Oop.AssemblyInfo.cs
+D:\IET\.NET\Solution1\02Day_Oop\obj\Debug\net7.0\02Day_Oop.csproj.CoreCompileInputs.cache
+D:\IET\.NET\Solution1\02Day_Oop\obj\Debug\net7.0\02Day_Oop.dll
+D:\IET\.NET\Solution1\02Day_Oop\obj\Debug\net7.0\refint\02Day_Oop.dll
+D:\IET\.NET\Solution1\02Day_Oop\obj\Debug\net7.0\02Day_Oop.pdb
+D:\IET\.NET\Solution1\02Day_Oop\obj\Debug\net7.0\02Day_Oop.genruntimeconfig.cache
+D:\IET\.NET\Solution1\02Day_Oop\obj\Debug\net7.0\ref\02Day_Oop.dll
