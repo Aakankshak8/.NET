@@ -1,0 +1,15 @@
+D:\IET\.NET\Solution1\02Day_Database_Inheritance\bin\Debug\net7.0\02Day_Database_Inheritance.exe
+D:\IET\.NET\Solution1\02Day_Database_Inheritance\bin\Debug\net7.0\02Day_Database_Inheritance.deps.json
+D:\IET\.NET\Solution1\02Day_Database_Inheritance\bin\Debug\net7.0\02Day_Database_Inheritance.runtimeconfig.json
+D:\IET\.NET\Solution1\02Day_Database_Inheritance\bin\Debug\net7.0\02Day_Database_Inheritance.dll
+D:\IET\.NET\Solution1\02Day_Database_Inheritance\bin\Debug\net7.0\02Day_Database_Inheritance.pdb
+D:\IET\.NET\Solution1\02Day_Database_Inheritance\obj\Debug\net7.0\02Day_Database_Inheritance.csproj.AssemblyReference.cache
+D:\IET\.NET\Solution1\02Day_Database_Inheritance\obj\Debug\net7.0\02Day_Database_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\IET\.NET\Solution1\02Day_Database_Inheritance\obj\Debug\net7.0\02Day_Database_Inheritance.AssemblyInfoInputs.cache
+D:\IET\.NET\Solution1\02Day_Database_Inheritance\obj\Debug\net7.0\02Day_Database_Inheritance.AssemblyInfo.cs
+D:\IET\.NET\Solution1\02Day_Database_Inheritance\obj\Debug\net7.0\02Day_Database_Inheritance.csproj.CoreCompileInputs.cache
+D:\IET\.NET\Solution1\02Day_Database_Inheritance\obj\Debug\net7.0\02Day_Database_Inheritance.dll
+D:\IET\.NET\Solution1\02Day_Database_Inheritance\obj\Debug\net7.0\refint\02Day_Database_Inheritance.dll
+D:\IET\.NET\Solution1\02Day_Database_Inheritance\obj\Debug\net7.0\02Day_Database_Inheritance.pdb
+D:\IET\.NET\Solution1\02Day_Database_Inheritance\obj\Debug\net7.0\02Day_Database_Inheritance.genruntimeconfig.cache
+D:\IET\.NET\Solution1\02Day_Database_Inheritance\obj\Debug\net7.0\ref\02Day_Database_Inheritance.dll
