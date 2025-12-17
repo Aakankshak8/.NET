@@ -1,0 +1,15 @@
+D:\IET\.NET\Solution1\03Day_Report\bin\Debug\net7.0\03Day_Report.exe
+D:\IET\.NET\Solution1\03Day_Report\bin\Debug\net7.0\03Day_Report.deps.json
+D:\IET\.NET\Solution1\03Day_Report\bin\Debug\net7.0\03Day_Report.runtimeconfig.json
+D:\IET\.NET\Solution1\03Day_Report\bin\Debug\net7.0\03Day_Report.dll
+D:\IET\.NET\Solution1\03Day_Report\bin\Debug\net7.0\03Day_Report.pdb
+D:\IET\.NET\Solution1\03Day_Report\obj\Debug\net7.0\03Day_Report.csproj.AssemblyReference.cache
+D:\IET\.NET\Solution1\03Day_Report\obj\Debug\net7.0\03Day_Report.GeneratedMSBuildEditorConfig.editorconfig
+D:\IET\.NET\Solution1\03Day_Report\obj\Debug\net7.0\03Day_Report.AssemblyInfoInputs.cache
+D:\IET\.NET\Solution1\03Day_Report\obj\Debug\net7.0\03Day_Report.AssemblyInfo.cs
+D:\IET\.NET\Solution1\03Day_Report\obj\Debug\net7.0\03Day_Report.csproj.CoreCompileInputs.cache
+D:\IET\.NET\Solution1\03Day_Report\obj\Debug\net7.0\03Day_Report.dll
+D:\IET\.NET\Solution1\03Day_Report\obj\Debug\net7.0\refint\03Day_Report.dll
+D:\IET\.NET\Solution1\03Day_Report\obj\Debug\net7.0\03Day_Report.pdb
+D:\IET\.NET\Solution1\03Day_Report\obj\Debug\net7.0\03Day_Report.genruntimeconfig.cache
+D:\IET\.NET\Solution1\03Day_Report\obj\Debug\net7.0\ref\03Day_Report.dll

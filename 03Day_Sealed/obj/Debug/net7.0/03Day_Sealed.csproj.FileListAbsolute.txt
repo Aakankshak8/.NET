@@ -1,0 +1,15 @@
+D:\IET\.NET\Solution1\03Day_Sealed\bin\Debug\net7.0\03Day_Sealed.exe
+D:\IET\.NET\Solution1\03Day_Sealed\bin\Debug\net7.0\03Day_Sealed.deps.json
+D:\IET\.NET\Solution1\03Day_Sealed\bin\Debug\net7.0\03Day_Sealed.runtimeconfig.json
+D:\IET\.NET\Solution1\03Day_Sealed\bin\Debug\net7.0\03Day_Sealed.dll
+D:\IET\.NET\Solution1\03Day_Sealed\bin\Debug\net7.0\03Day_Sealed.pdb
+D:\IET\.NET\Solution1\03Day_Sealed\obj\Debug\net7.0\03Day_Sealed.csproj.AssemblyReference.cache
+D:\IET\.NET\Solution1\03Day_Sealed\obj\Debug\net7.0\03Day_Sealed.GeneratedMSBuildEditorConfig.editorconfig
+D:\IET\.NET\Solution1\03Day_Sealed\obj\Debug\net7.0\03Day_Sealed.AssemblyInfoInputs.cache
+D:\IET\.NET\Solution1\03Day_Sealed\obj\Debug\net7.0\03Day_Sealed.AssemblyInfo.cs
+D:\IET\.NET\Solution1\03Day_Sealed\obj\Debug\net7.0\03Day_Sealed.csproj.CoreCompileInputs.cache
+D:\IET\.NET\Solution1\03Day_Sealed\obj\Debug\net7.0\03Day_Sealed.dll
+D:\IET\.NET\Solution1\03Day_Sealed\obj\Debug\net7.0\refint\03Day_Sealed.dll
+D:\IET\.NET\Solution1\03Day_Sealed\obj\Debug\net7.0\03Day_Sealed.pdb
+D:\IET\.NET\Solution1\03Day_Sealed\obj\Debug\net7.0\03Day_Sealed.genruntimeconfig.cache
+D:\IET\.NET\Solution1\03Day_Sealed\obj\Debug\net7.0\ref\03Day_Sealed.dll

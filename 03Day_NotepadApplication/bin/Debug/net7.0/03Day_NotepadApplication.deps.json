@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "03Day_NotepadApplication/1.0.0": {
+        "runtime": {
+          "03Day_NotepadApplication.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "03Day_NotepadApplication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

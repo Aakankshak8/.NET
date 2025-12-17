@@ -1,0 +1,15 @@
+D:\IET\.NET\Solution1\03Day_Logger\bin\Debug\net7.0\03Day_Logger.exe
+D:\IET\.NET\Solution1\03Day_Logger\bin\Debug\net7.0\03Day_Logger.deps.json
+D:\IET\.NET\Solution1\03Day_Logger\bin\Debug\net7.0\03Day_Logger.runtimeconfig.json
+D:\IET\.NET\Solution1\03Day_Logger\bin\Debug\net7.0\03Day_Logger.dll
+D:\IET\.NET\Solution1\03Day_Logger\bin\Debug\net7.0\03Day_Logger.pdb
+D:\IET\.NET\Solution1\03Day_Logger\obj\Debug\net7.0\03Day_Logger.csproj.AssemblyReference.cache
+D:\IET\.NET\Solution1\03Day_Logger\obj\Debug\net7.0\03Day_Logger.GeneratedMSBuildEditorConfig.editorconfig
+D:\IET\.NET\Solution1\03Day_Logger\obj\Debug\net7.0\03Day_Logger.AssemblyInfoInputs.cache
+D:\IET\.NET\Solution1\03Day_Logger\obj\Debug\net7.0\03Day_Logger.AssemblyInfo.cs
+D:\IET\.NET\Solution1\03Day_Logger\obj\Debug\net7.0\03Day_Logger.csproj.CoreCompileInputs.cache
+D:\IET\.NET\Solution1\03Day_Logger\obj\Debug\net7.0\03Day_Logger.dll
+D:\IET\.NET\Solution1\03Day_Logger\obj\Debug\net7.0\refint\03Day_Logger.dll
+D:\IET\.NET\Solution1\03Day_Logger\obj\Debug\net7.0\03Day_Logger.pdb
+D:\IET\.NET\Solution1\03Day_Logger\obj\Debug\net7.0\03Day_Logger.genruntimeconfig.cache
+D:\IET\.NET\Solution1\03Day_Logger\obj\Debug\net7.0\ref\03Day_Logger.dll

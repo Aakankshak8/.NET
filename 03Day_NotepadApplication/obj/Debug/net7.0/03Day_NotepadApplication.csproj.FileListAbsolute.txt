@@ -1,0 +1,15 @@
+D:\IET\.NET\Solution1\03Day_NotepadApplication\bin\Debug\net7.0\03Day_NotepadApplication.exe
+D:\IET\.NET\Solution1\03Day_NotepadApplication\bin\Debug\net7.0\03Day_NotepadApplication.deps.json
+D:\IET\.NET\Solution1\03Day_NotepadApplication\bin\Debug\net7.0\03Day_NotepadApplication.runtimeconfig.json
+D:\IET\.NET\Solution1\03Day_NotepadApplication\bin\Debug\net7.0\03Day_NotepadApplication.dll
+D:\IET\.NET\Solution1\03Day_NotepadApplication\bin\Debug\net7.0\03Day_NotepadApplication.pdb
+D:\IET\.NET\Solution1\03Day_NotepadApplication\obj\Debug\net7.0\03Day_NotepadApplication.csproj.AssemblyReference.cache
+D:\IET\.NET\Solution1\03Day_NotepadApplication\obj\Debug\net7.0\03Day_NotepadApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\IET\.NET\Solution1\03Day_NotepadApplication\obj\Debug\net7.0\03Day_NotepadApplication.AssemblyInfoInputs.cache
+D:\IET\.NET\Solution1\03Day_NotepadApplication\obj\Debug\net7.0\03Day_NotepadApplication.AssemblyInfo.cs
+D:\IET\.NET\Solution1\03Day_NotepadApplication\obj\Debug\net7.0\03Day_NotepadApplication.csproj.CoreCompileInputs.cache
+D:\IET\.NET\Solution1\03Day_NotepadApplication\obj\Debug\net7.0\03Day_NotepadApplication.dll
+D:\IET\.NET\Solution1\03Day_NotepadApplication\obj\Debug\net7.0\refint\03Day_NotepadApplication.dll
+D:\IET\.NET\Solution1\03Day_NotepadApplication\obj\Debug\net7.0\03Day_NotepadApplication.pdb
+D:\IET\.NET\Solution1\03Day_NotepadApplication\obj\Debug\net7.0\03Day_NotepadApplication.genruntimeconfig.cache
+D:\IET\.NET\Solution1\03Day_NotepadApplication\obj\Debug\net7.0\ref\03Day_NotepadApplication.dll
