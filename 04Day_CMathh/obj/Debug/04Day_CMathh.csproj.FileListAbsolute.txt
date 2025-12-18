@@ -1,0 +1,6 @@
+D:\IET\.NET\Solution1\04Day_CMathh\bin\Debug\04Day_CMathh.dll
+D:\IET\.NET\Solution1\04Day_CMathh\bin\Debug\04Day_CMathh.pdb
+D:\IET\.NET\Solution1\04Day_CMathh\obj\Debug\04Day_CMathh.csproj.AssemblyReference.cache
+D:\IET\.NET\Solution1\04Day_CMathh\obj\Debug\04Day_CMathh.csproj.CoreCompileInputs.cache
+D:\IET\.NET\Solution1\04Day_CMathh\obj\Debug\04Day_CMathh.dll
+D:\IET\.NET\Solution1\04Day_CMathh\obj\Debug\04Day_CMathh.pdb

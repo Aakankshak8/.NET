@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "CMathClient/1.0.0": {
+        "dependencies": {
+          "04Day_CMathh": "1.0.0"
+        },
+        "runtime": {
+          "CMathClient.dll": {}
+        }
+      },
+      "04Day_CMathh/1.0.0": {
+        "runtime": {
+          "04Day_CMathh.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CMathClient/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "04Day_CMathh/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

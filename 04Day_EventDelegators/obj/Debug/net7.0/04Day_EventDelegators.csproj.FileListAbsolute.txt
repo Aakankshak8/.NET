@@ -1,0 +1,15 @@
+D:\IET\.NET\Solution1\04Day_EventDelegators\bin\Debug\net7.0\04Day_EventDelegators.exe
+D:\IET\.NET\Solution1\04Day_EventDelegators\bin\Debug\net7.0\04Day_EventDelegators.deps.json
+D:\IET\.NET\Solution1\04Day_EventDelegators\bin\Debug\net7.0\04Day_EventDelegators.runtimeconfig.json
+D:\IET\.NET\Solution1\04Day_EventDelegators\bin\Debug\net7.0\04Day_EventDelegators.dll
+D:\IET\.NET\Solution1\04Day_EventDelegators\bin\Debug\net7.0\04Day_EventDelegators.pdb
+D:\IET\.NET\Solution1\04Day_EventDelegators\obj\Debug\net7.0\04Day_EventDelegators.csproj.AssemblyReference.cache
+D:\IET\.NET\Solution1\04Day_EventDelegators\obj\Debug\net7.0\04Day_EventDelegators.GeneratedMSBuildEditorConfig.editorconfig
+D:\IET\.NET\Solution1\04Day_EventDelegators\obj\Debug\net7.0\04Day_EventDelegators.AssemblyInfoInputs.cache
+D:\IET\.NET\Solution1\04Day_EventDelegators\obj\Debug\net7.0\04Day_EventDelegators.AssemblyInfo.cs
+D:\IET\.NET\Solution1\04Day_EventDelegators\obj\Debug\net7.0\04Day_EventDelegators.csproj.CoreCompileInputs.cache
+D:\IET\.NET\Solution1\04Day_EventDelegators\obj\Debug\net7.0\04Day_EventDelegators.dll
+D:\IET\.NET\Solution1\04Day_EventDelegators\obj\Debug\net7.0\refint\04Day_EventDelegators.dll
+D:\IET\.NET\Solution1\04Day_EventDelegators\obj\Debug\net7.0\04Day_EventDelegators.pdb
+D:\IET\.NET\Solution1\04Day_EventDelegators\obj\Debug\net7.0\04Day_EventDelegators.genruntimeconfig.cache
+D:\IET\.NET\Solution1\04Day_EventDelegators\obj\Debug\net7.0\ref\04Day_EventDelegators.dll

@@ -1,0 +1,15 @@
+D:\IET\.NET\Solution1\Day04_Delegates\bin\Debug\net7.0\Day04_Delegates.exe
+D:\IET\.NET\Solution1\Day04_Delegates\bin\Debug\net7.0\Day04_Delegates.deps.json
+D:\IET\.NET\Solution1\Day04_Delegates\bin\Debug\net7.0\Day04_Delegates.runtimeconfig.json
+D:\IET\.NET\Solution1\Day04_Delegates\bin\Debug\net7.0\Day04_Delegates.dll
+D:\IET\.NET\Solution1\Day04_Delegates\bin\Debug\net7.0\Day04_Delegates.pdb
+D:\IET\.NET\Solution1\Day04_Delegates\obj\Debug\net7.0\Day04_Delegates.csproj.AssemblyReference.cache
+D:\IET\.NET\Solution1\Day04_Delegates\obj\Debug\net7.0\Day04_Delegates.GeneratedMSBuildEditorConfig.editorconfig
+D:\IET\.NET\Solution1\Day04_Delegates\obj\Debug\net7.0\Day04_Delegates.AssemblyInfoInputs.cache
+D:\IET\.NET\Solution1\Day04_Delegates\obj\Debug\net7.0\Day04_Delegates.AssemblyInfo.cs
+D:\IET\.NET\Solution1\Day04_Delegates\obj\Debug\net7.0\Day04_Delegates.csproj.CoreCompileInputs.cache
+D:\IET\.NET\Solution1\Day04_Delegates\obj\Debug\net7.0\Day04_Delegates.dll
+D:\IET\.NET\Solution1\Day04_Delegates\obj\Debug\net7.0\refint\Day04_Delegates.dll
+D:\IET\.NET\Solution1\Day04_Delegates\obj\Debug\net7.0\Day04_Delegates.pdb
+D:\IET\.NET\Solution1\Day04_Delegates\obj\Debug\net7.0\Day04_Delegates.genruntimeconfig.cache
+D:\IET\.NET\Solution1\Day04_Delegates\obj\Debug\net7.0\ref\Day04_Delegates.dll

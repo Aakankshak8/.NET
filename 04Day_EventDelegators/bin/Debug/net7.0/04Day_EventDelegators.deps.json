@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "04Day_EventDelegators/1.0.0": {
+        "runtime": {
+          "04Day_EventDelegators.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "04Day_EventDelegators/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
