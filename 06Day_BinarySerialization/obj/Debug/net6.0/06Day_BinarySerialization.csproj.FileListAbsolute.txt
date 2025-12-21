@@ -1,0 +1,15 @@
+D:\IET\.NET\Solution1\06Day_BinarySerialization\bin\Debug\net6.0\06Day_BinarySerialization.exe
+D:\IET\.NET\Solution1\06Day_BinarySerialization\bin\Debug\net6.0\06Day_BinarySerialization.deps.json
+D:\IET\.NET\Solution1\06Day_BinarySerialization\bin\Debug\net6.0\06Day_BinarySerialization.runtimeconfig.json
+D:\IET\.NET\Solution1\06Day_BinarySerialization\bin\Debug\net6.0\06Day_BinarySerialization.dll
+D:\IET\.NET\Solution1\06Day_BinarySerialization\bin\Debug\net6.0\06Day_BinarySerialization.pdb
+D:\IET\.NET\Solution1\06Day_BinarySerialization\obj\Debug\net6.0\06Day_BinarySerialization.csproj.AssemblyReference.cache
+D:\IET\.NET\Solution1\06Day_BinarySerialization\obj\Debug\net6.0\06Day_BinarySerialization.GeneratedMSBuildEditorConfig.editorconfig
+D:\IET\.NET\Solution1\06Day_BinarySerialization\obj\Debug\net6.0\06Day_BinarySerialization.AssemblyInfoInputs.cache
+D:\IET\.NET\Solution1\06Day_BinarySerialization\obj\Debug\net6.0\06Day_BinarySerialization.AssemblyInfo.cs
+D:\IET\.NET\Solution1\06Day_BinarySerialization\obj\Debug\net6.0\06Day_BinarySerialization.csproj.CoreCompileInputs.cache
+D:\IET\.NET\Solution1\06Day_BinarySerialization\obj\Debug\net6.0\06Day_BinarySerialization.dll
+D:\IET\.NET\Solution1\06Day_BinarySerialization\obj\Debug\net6.0\refint\06Day_BinarySerialization.dll
+D:\IET\.NET\Solution1\06Day_BinarySerialization\obj\Debug\net6.0\06Day_BinarySerialization.pdb
+D:\IET\.NET\Solution1\06Day_BinarySerialization\obj\Debug\net6.0\06Day_BinarySerialization.genruntimeconfig.cache
+D:\IET\.NET\Solution1\06Day_BinarySerialization\obj\Debug\net6.0\ref\06Day_BinarySerialization.dll

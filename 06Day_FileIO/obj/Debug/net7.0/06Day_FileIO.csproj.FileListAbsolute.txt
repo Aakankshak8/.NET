@@ -1,0 +1,15 @@
+D:\IET\.NET\Solution1\06Day_FileIO\bin\Debug\net7.0\06Day_FileIO.exe
+D:\IET\.NET\Solution1\06Day_FileIO\bin\Debug\net7.0\06Day_FileIO.deps.json
+D:\IET\.NET\Solution1\06Day_FileIO\bin\Debug\net7.0\06Day_FileIO.runtimeconfig.json
+D:\IET\.NET\Solution1\06Day_FileIO\bin\Debug\net7.0\06Day_FileIO.dll
+D:\IET\.NET\Solution1\06Day_FileIO\bin\Debug\net7.0\06Day_FileIO.pdb
+D:\IET\.NET\Solution1\06Day_FileIO\obj\Debug\net7.0\06Day_FileIO.csproj.AssemblyReference.cache
+D:\IET\.NET\Solution1\06Day_FileIO\obj\Debug\net7.0\06Day_FileIO.GeneratedMSBuildEditorConfig.editorconfig
+D:\IET\.NET\Solution1\06Day_FileIO\obj\Debug\net7.0\06Day_FileIO.AssemblyInfoInputs.cache
+D:\IET\.NET\Solution1\06Day_FileIO\obj\Debug\net7.0\06Day_FileIO.AssemblyInfo.cs
+D:\IET\.NET\Solution1\06Day_FileIO\obj\Debug\net7.0\06Day_FileIO.csproj.CoreCompileInputs.cache
+D:\IET\.NET\Solution1\06Day_FileIO\obj\Debug\net7.0\06Day_FileIO.dll
+D:\IET\.NET\Solution1\06Day_FileIO\obj\Debug\net7.0\refint\06Day_FileIO.dll
+D:\IET\.NET\Solution1\06Day_FileIO\obj\Debug\net7.0\06Day_FileIO.pdb
+D:\IET\.NET\Solution1\06Day_FileIO\obj\Debug\net7.0\06Day_FileIO.genruntimeconfig.cache
+D:\IET\.NET\Solution1\06Day_FileIO\obj\Debug\net7.0\ref\06Day_FileIO.dll

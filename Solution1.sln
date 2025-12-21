@@ -27,17 +27,27 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03Day_Logger", "03Day_Logge
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03Day_NotepadApplication", "03Day_NotepadApplication\03Day_NotepadApplication.csproj", "{9BF76FB7-AF4E-409E-933E-0E16D8FAC242}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04Day_Property", "04Day_Property\04Day_Property.csproj", "{F63F0D31-1978-4147-9F26-4B00479FCD6A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04Day_Property", "04Day_Property\04Day_Property.csproj", "{F63F0D31-1978-4147-9F26-4B00479FCD6A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day04_Delegates", "Day04_Delegates\Day04_Delegates.csproj", "{60F02C69-7C78-4674-B0E5-F276B2B1D0B6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day04_Delegates", "Day04_Delegates\Day04_Delegates.csproj", "{60F02C69-7C78-4674-B0E5-F276B2B1D0B6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04Day_EventDelegators", "04Day_EventDelegators\04Day_EventDelegators.csproj", "{29F6306E-190A-4412-A789-6C4C7949D9BC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04Day_EventDelegators", "04Day_EventDelegators\04Day_EventDelegators.csproj", "{29F6306E-190A-4412-A789-6C4C7949D9BC}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04Day_CMathh", "04Day_CMathh\04Day_CMathh.csproj", "{28A6F744-B2A6-4769-A346-8407C458B527}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CMathClient", "CMathClient\CMathClient.csproj", "{FBCDC9EB-10E0-42AD-90D6-972D27676DA6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CMathClient", "CMathClient\CMathClient.csproj", "{FBCDC9EB-10E0-42AD-90D6-972D27676DA6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04Day_MulticastDelegate", "04Day_MulticastDelegate\04Day_MulticastDelegate.csproj", "{0A979A37-2BC2-4A60-A443-566832084AA7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04Day_MulticastDelegate", "04Day_MulticastDelegate\04Day_MulticastDelegate.csproj", "{0A979A37-2BC2-4A60-A443-566832084AA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06Day_FileIO", "06Day_FileIO\06Day_FileIO.csproj", "{0E466BFE-F603-48C3-96C8-EE0AB2AB7905}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06Day_BinarySerialization", "06Day_BinarySerialization\06Day_BinarySerialization.csproj", "{F3F6A9B9-B046-44DA-8EC2-03FDD171A3BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06Day_Seialization", "06Day_Seialization\06Day_Seialization.csproj", "{06C984AE-F24E-46C4-94FA-4C9E35C5EE78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06Day_Reflection", "06Day_Reflection\06Day_Reflection.csproj", "{127591B3-A1B7-464D-97ED-290A9DF31D1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CMath", "CMath\CMath.csproj", "{A319CE26-952A-4253-A444-E4F9EB52A872}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +127,26 @@ Global
 		{0A979A37-2BC2-4A60-A443-566832084AA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A979A37-2BC2-4A60-A443-566832084AA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A979A37-2BC2-4A60-A443-566832084AA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E466BFE-F603-48C3-96C8-EE0AB2AB7905}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E466BFE-F603-48C3-96C8-EE0AB2AB7905}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E466BFE-F603-48C3-96C8-EE0AB2AB7905}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E466BFE-F603-48C3-96C8-EE0AB2AB7905}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3F6A9B9-B046-44DA-8EC2-03FDD171A3BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3F6A9B9-B046-44DA-8EC2-03FDD171A3BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3F6A9B9-B046-44DA-8EC2-03FDD171A3BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3F6A9B9-B046-44DA-8EC2-03FDD171A3BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06C984AE-F24E-46C4-94FA-4C9E35C5EE78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06C984AE-F24E-46C4-94FA-4C9E35C5EE78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06C984AE-F24E-46C4-94FA-4C9E35C5EE78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06C984AE-F24E-46C4-94FA-4C9E35C5EE78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{127591B3-A1B7-464D-97ED-290A9DF31D1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{127591B3-A1B7-464D-97ED-290A9DF31D1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{127591B3-A1B7-464D-97ED-290A9DF31D1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{127591B3-A1B7-464D-97ED-290A9DF31D1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A319CE26-952A-4253-A444-E4F9EB52A872}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A319CE26-952A-4253-A444-E4F9EB52A872}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A319CE26-952A-4253-A444-E4F9EB52A872}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A319CE26-952A-4253-A444-E4F9EB52A872}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

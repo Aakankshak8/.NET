@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "06Day_Reflection/1.0.0": {
+        "dependencies": {
+          "CMath": "1.0.0"
+        },
+        "runtime": {
+          "06Day_Reflection.dll": {}
+        }
+      },
+      "CMath/1.0.0": {
+        "runtime": {
+          "CMath.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "06Day_Reflection/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CMath/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

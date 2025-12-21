@@ -1,0 +1,15 @@
+D:\IET\.NET\Solution1\06Day_Seialization\bin\Debug\net7.0\06Day_Seialization.exe
+D:\IET\.NET\Solution1\06Day_Seialization\bin\Debug\net7.0\06Day_Seialization.deps.json
+D:\IET\.NET\Solution1\06Day_Seialization\bin\Debug\net7.0\06Day_Seialization.runtimeconfig.json
+D:\IET\.NET\Solution1\06Day_Seialization\bin\Debug\net7.0\06Day_Seialization.dll
+D:\IET\.NET\Solution1\06Day_Seialization\bin\Debug\net7.0\06Day_Seialization.pdb
+D:\IET\.NET\Solution1\06Day_Seialization\obj\Debug\net7.0\06Day_Seialization.csproj.AssemblyReference.cache
+D:\IET\.NET\Solution1\06Day_Seialization\obj\Debug\net7.0\06Day_Seialization.GeneratedMSBuildEditorConfig.editorconfig
+D:\IET\.NET\Solution1\06Day_Seialization\obj\Debug\net7.0\06Day_Seialization.AssemblyInfoInputs.cache
+D:\IET\.NET\Solution1\06Day_Seialization\obj\Debug\net7.0\06Day_Seialization.AssemblyInfo.cs
+D:\IET\.NET\Solution1\06Day_Seialization\obj\Debug\net7.0\06Day_Seialization.csproj.CoreCompileInputs.cache
+D:\IET\.NET\Solution1\06Day_Seialization\obj\Debug\net7.0\06Day_Seialization.dll
+D:\IET\.NET\Solution1\06Day_Seialization\obj\Debug\net7.0\refint\06Day_Seialization.dll
+D:\IET\.NET\Solution1\06Day_Seialization\obj\Debug\net7.0\06Day_Seialization.pdb
+D:\IET\.NET\Solution1\06Day_Seialization\obj\Debug\net7.0\06Day_Seialization.genruntimeconfig.cache
+D:\IET\.NET\Solution1\06Day_Seialization\obj\Debug\net7.0\ref\06Day_Seialization.dll

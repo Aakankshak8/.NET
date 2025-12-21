@@ -1,0 +1,6 @@
+D:\IET\.NET\Solution1\CMath\bin\Debug\CMath.dll
+D:\IET\.NET\Solution1\CMath\bin\Debug\CMath.pdb
+D:\IET\.NET\Solution1\CMath\obj\Debug\CMath.csproj.AssemblyReference.cache
+D:\IET\.NET\Solution1\CMath\obj\Debug\CMath.csproj.CoreCompileInputs.cache
+D:\IET\.NET\Solution1\CMath\obj\Debug\CMath.dll
+D:\IET\.NET\Solution1\CMath\obj\Debug\CMath.pdb
