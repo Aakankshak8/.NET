@@ -1,0 +1,6 @@
+D:\IET\.NET\Solution1\07Day_BVSAttribute\bin\Debug\07Day_BVSAttribute.dll
+D:\IET\.NET\Solution1\07Day_BVSAttribute\bin\Debug\07Day_BVSAttribute.pdb
+D:\IET\.NET\Solution1\07Day_BVSAttribute\obj\Debug\07Day_BVSAttribute.csproj.AssemblyReference.cache
+D:\IET\.NET\Solution1\07Day_BVSAttribute\obj\Debug\07Day_BVSAttribute.csproj.CoreCompileInputs.cache
+D:\IET\.NET\Solution1\07Day_BVSAttribute\obj\Debug\07Day_BVSAttribute.dll
+D:\IET\.NET\Solution1\07Day_BVSAttribute\obj\Debug\07Day_BVSAttribute.pdb

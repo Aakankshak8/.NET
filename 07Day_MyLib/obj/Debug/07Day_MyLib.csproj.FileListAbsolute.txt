@@ -1,0 +1,16 @@
+D:\IET\.NET\Solution1\07Day_MyLib\obj\Debug\07Day_MyLib.csproj.AssemblyReference.cache
+D:\IET\.NET\Solution1\07Day_MyLib\obj\Debug\07Day_MyLib.csproj.CoreCompileInputs.cache
+D:\IET\.NET\Solution1\07Day_MyLib\bin\Debug\07Day_MyLib.dll.config
+D:\IET\.NET\Solution1\07Day_MyLib\bin\Debug\07Day_MyLib.dll
+D:\IET\.NET\Solution1\07Day_MyLib\bin\Debug\07Day_MyLib.pdb
+D:\IET\.NET\Solution1\07Day_MyLib\bin\Debug\Effort.dll
+D:\IET\.NET\Solution1\07Day_MyLib\bin\Debug\EntityFramework.dll
+D:\IET\.NET\Solution1\07Day_MyLib\bin\Debug\EntityFramework.SqlServer.dll
+D:\IET\.NET\Solution1\07Day_MyLib\bin\Debug\NMemory.dll
+D:\IET\.NET\Solution1\07Day_MyLib\bin\Debug\Effort.xml
+D:\IET\.NET\Solution1\07Day_MyLib\bin\Debug\EntityFramework.xml
+D:\IET\.NET\Solution1\07Day_MyLib\bin\Debug\EntityFramework.SqlServer.xml
+D:\IET\.NET\Solution1\07Day_MyLib\bin\Debug\NMemory.xml
+D:\IET\.NET\Solution1\07Day_MyLib\obj\Debug\07Day_MyLib.csproj.CopyComplete
+D:\IET\.NET\Solution1\07Day_MyLib\obj\Debug\07Day_MyLib.dll
+D:\IET\.NET\Solution1\07Day_MyLib\obj\Debug\07Day_MyLib.pdb

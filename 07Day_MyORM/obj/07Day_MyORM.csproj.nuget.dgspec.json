@@ -1,0 +1,105 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\IET\\.NET\\Solution1\\07Day_MyORM\\07Day_MyORM.csproj": {}
+  },
+  "projects": {
+    "D:\\IET\\.NET\\Solution1\\07Day_CustomAttribute\\07Day_CustomAttribute.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\IET\\.NET\\Solution1\\07Day_CustomAttribute\\07Day_CustomAttribute.csproj",
+        "projectName": "07Day_CustomAttribute",
+        "projectPath": "D:\\IET\\.NET\\Solution1\\07Day_CustomAttribute\\07Day_CustomAttribute.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "D:\\IET\\.NET\\Solution1\\07Day_MyLib\\07Day_MyLib.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\IET\\.NET\\Solution1\\07Day_MyLib\\07Day_MyLib.csproj",
+        "projectName": "07Day_MyLib",
+        "projectPath": "D:\\IET\\.NET\\Solution1\\07Day_MyLib\\07Day_MyLib.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "D:\\IET\\.NET\\Solution1\\07Day_MyORM\\07Day_MyORM.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\IET\\.NET\\Solution1\\07Day_MyORM\\07Day_MyORM.csproj",
+        "projectName": "07Day_MyORM",
+        "projectPath": "D:\\IET\\.NET\\Solution1\\07Day_MyORM\\07Day_MyORM.csproj",
+        "packagesPath": "C:\\Users\\Aakansha\\.nuget\\packages\\",
+        "outputPath": "D:\\IET\\.NET\\Solution1\\07Day_MyORM\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Aakansha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\IET\\.NET\\Solution1\\07Day_CustomAttribute\\07Day_CustomAttribute.csproj": {
+                "projectPath": "D:\\IET\\.NET\\Solution1\\07Day_CustomAttribute\\07Day_CustomAttribute.csproj"
+              },
+              "D:\\IET\\.NET\\Solution1\\07Day_MyLib\\07Day_MyLib.csproj": {
+                "projectPath": "D:\\IET\\.NET\\Solution1\\07Day_MyLib\\07Day_MyLib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

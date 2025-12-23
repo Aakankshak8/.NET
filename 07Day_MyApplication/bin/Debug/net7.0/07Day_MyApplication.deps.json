@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "07Day_MyApplication/1.0.0": {
+        "dependencies": {
+          "07Day_BVSAttribute": "1.0.0"
+        },
+        "runtime": {
+          "07Day_MyApplication.dll": {}
+        }
+      },
+      "07Day_BVSAttribute/1.0.0": {
+        "runtime": {
+          "07Day_BVSAttribute.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "07Day_MyApplication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "07Day_BVSAttribute/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
