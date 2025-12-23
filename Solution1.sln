@@ -39,15 +39,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CMathClient", "CMathClient\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04Day_MulticastDelegate", "04Day_MulticastDelegate\04Day_MulticastDelegate.csproj", "{0A979A37-2BC2-4A60-A443-566832084AA7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06Day_FileIO", "06Day_FileIO\06Day_FileIO.csproj", "{0E466BFE-F603-48C3-96C8-EE0AB2AB7905}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06Day_FileIO", "06Day_FileIO\06Day_FileIO.csproj", "{0E466BFE-F603-48C3-96C8-EE0AB2AB7905}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06Day_BinarySerialization", "06Day_BinarySerialization\06Day_BinarySerialization.csproj", "{F3F6A9B9-B046-44DA-8EC2-03FDD171A3BF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06Day_BinarySerialization", "06Day_BinarySerialization\06Day_BinarySerialization.csproj", "{F3F6A9B9-B046-44DA-8EC2-03FDD171A3BF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06Day_Seialization", "06Day_Seialization\06Day_Seialization.csproj", "{06C984AE-F24E-46C4-94FA-4C9E35C5EE78}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06Day_Seialization", "06Day_Seialization\06Day_Seialization.csproj", "{06C984AE-F24E-46C4-94FA-4C9E35C5EE78}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06Day_Reflection", "06Day_Reflection\06Day_Reflection.csproj", "{127591B3-A1B7-464D-97ED-290A9DF31D1A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06Day_Reflection", "06Day_Reflection\06Day_Reflection.csproj", "{127591B3-A1B7-464D-97ED-290A9DF31D1A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CMath", "CMath\CMath.csproj", "{A319CE26-952A-4253-A444-E4F9EB52A872}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07Day_PartialClass", "07Day_PartialClass\07Day_PartialClass.csproj", "{7367E967-DDC0-4BCF-AA4C-94C58375B059}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -147,6 +149,10 @@ Global
 		{A319CE26-952A-4253-A444-E4F9EB52A872}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A319CE26-952A-4253-A444-E4F9EB52A872}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A319CE26-952A-4253-A444-E4F9EB52A872}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7367E967-DDC0-4BCF-AA4C-94C58375B059}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7367E967-DDC0-4BCF-AA4C-94C58375B059}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7367E967-DDC0-4BCF-AA4C-94C58375B059}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7367E967-DDC0-4BCF-AA4C-94C58375B059}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
