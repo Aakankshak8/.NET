@@ -1,0 +1,15 @@
+D:\IET\.NET\Solution1\08Day_LinQ\bin\Debug\net7.0\08Day_LinQ.exe
+D:\IET\.NET\Solution1\08Day_LinQ\bin\Debug\net7.0\08Day_LinQ.deps.json
+D:\IET\.NET\Solution1\08Day_LinQ\bin\Debug\net7.0\08Day_LinQ.runtimeconfig.json
+D:\IET\.NET\Solution1\08Day_LinQ\bin\Debug\net7.0\08Day_LinQ.dll
+D:\IET\.NET\Solution1\08Day_LinQ\bin\Debug\net7.0\08Day_LinQ.pdb
+D:\IET\.NET\Solution1\08Day_LinQ\obj\Debug\net7.0\08Day_LinQ.csproj.AssemblyReference.cache
+D:\IET\.NET\Solution1\08Day_LinQ\obj\Debug\net7.0\08Day_LinQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\IET\.NET\Solution1\08Day_LinQ\obj\Debug\net7.0\08Day_LinQ.AssemblyInfoInputs.cache
+D:\IET\.NET\Solution1\08Day_LinQ\obj\Debug\net7.0\08Day_LinQ.AssemblyInfo.cs
+D:\IET\.NET\Solution1\08Day_LinQ\obj\Debug\net7.0\08Day_LinQ.csproj.CoreCompileInputs.cache
+D:\IET\.NET\Solution1\08Day_LinQ\obj\Debug\net7.0\08Day_LinQ.dll
+D:\IET\.NET\Solution1\08Day_LinQ\obj\Debug\net7.0\refint\08Day_LinQ.dll
+D:\IET\.NET\Solution1\08Day_LinQ\obj\Debug\net7.0\08Day_LinQ.pdb
+D:\IET\.NET\Solution1\08Day_LinQ\obj\Debug\net7.0\08Day_LinQ.genruntimeconfig.cache
+D:\IET\.NET\Solution1\08Day_LinQ\obj\Debug\net7.0\ref\08Day_LinQ.dll
