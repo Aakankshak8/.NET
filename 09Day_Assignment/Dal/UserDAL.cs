@@ -16,10 +16,9 @@ namespace _09Day_Assignment.Dal
         internal int CreateUser(User userr)
         {
             using SqlConnection con = new SqlConnection(connectionString);
-            string query =
-                "INSERT INTO Userr (Email, Password) VALUES (@email, @password)";
+            
 
-            SqlCommand cmd = new SqlCommand(query, con);
+            SqlCommand cmd = new SqlCommand("INSERT INTO Userr(Email, Password) VALUES(@email, @password)", con);
             cmd.Parameters.AddWithValue("@email", userr.Email);
             cmd.Parameters.AddWithValue("@password", userr.Password);
 
