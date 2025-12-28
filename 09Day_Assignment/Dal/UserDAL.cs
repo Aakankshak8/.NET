@@ -27,26 +27,26 @@ namespace _09Day_Assignment.Dal
             return rows;
         }
 
-        public List<User> GetAllUsers()
+        internal User GetUserByEmailAndPassword(string email, string password)
         {
-            List<User> users = new List<User>();
-
             using SqlConnection con = new SqlConnection(connectionString);
-            SqlCommand cmd = new SqlCommand(
-                "SELECT Email, Password FROM Userr", con);
+            string query = "SELECT Email, Password FROM Userr WHERE Email=@Email AND Password=@Password";
+            SqlCommand cmd = new SqlCommand(query, con);
+            cmd.Parameters.AddWithValue("@Email", email);
+            cmd.Parameters.AddWithValue("@Password", password);
 
             con.Open();
             SqlDataReader reader = cmd.ExecuteReader();
-
-            while (reader.Read())
+            if (reader.Read())
             {
-                users.Add(new User
+                return new User
                 {
                     Email = reader["Email"].ToString(),
                     Password = reader["Password"].ToString()
-                });
+                };
             }
-            return users;
+            return null; // user not found
         }
+
     }
 }

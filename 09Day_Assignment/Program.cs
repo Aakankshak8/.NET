@@ -26,16 +26,12 @@ namespace _09Day_Assignment
                         Console.WriteLine("Enter Password: ");
                         String password = Console.ReadLine();
 
-                        var users = dAL.GetAllUsers();
-
-                        var validUser = users
-                                       .FirstOrDefault(u => u.Email == email && u.Password == password);
-
-
+                        var validUser = dAL.GetUserByEmailAndPassword(email, password);
                         if (validUser != null)
-                            Console.WriteLine(" Login successful");
+                            Console.WriteLine("Login successful");
                         else
-                            Console.WriteLine(" Invalid username or password");
+                            Console.WriteLine("Invalid username or password");
+
                         break;
 
                     case 2: 
